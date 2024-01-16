@@ -224,7 +224,7 @@
 .about__title {
     font-size: 40px;
     text-transform: uppercase;
-    margin-bottom: 100px;
+    margin: 100px 0;
 }
 
 .about__text {
